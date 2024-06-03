@@ -1,0 +1,6 @@
+@WEB_API_BOOK_HostAddress = http://localhost:5124
+
+GET {{WEB_API_BOOK_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
